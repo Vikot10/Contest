@@ -1,0 +1,14 @@
+D:\projects\C#\Contest\task3\bin\Debug\net7.0\task3.exe
+D:\projects\C#\Contest\task3\bin\Debug\net7.0\task3.deps.json
+D:\projects\C#\Contest\task3\bin\Debug\net7.0\task3.runtimeconfig.json
+D:\projects\C#\Contest\task3\bin\Debug\net7.0\task3.dll
+D:\projects\C#\Contest\task3\bin\Debug\net7.0\task3.pdb
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.AssemblyInfoInputs.cache
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.AssemblyInfo.cs
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.csproj.CoreCompileInputs.cache
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.dll
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\refint\task3.dll
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.pdb
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\task3.genruntimeconfig.cache
+D:\projects\C#\Contest\task3\obj\Debug\net7.0\ref\task3.dll
